@@ -1,0 +1,45 @@
+table {
+    width: 730;
+    font-family: 'Roboto', sans-serif;;
+    font-size:11pt;
+    color: #363636;
+}
+
+.left {
+    width: 390;
+}
+
+.right {
+    width: 350;
+}
+
+td {
+  text-align: left;
+}
+
+dd:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+dt:hover {
+     color: #2B73C7
+}
+   
+p#date {
+    font-family: 'Bebas Neue', cursive;
+    color: #757575;
+    text-align: center;
+    font-size: 13pt;
+}
+
+.description {
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+p#linkto {
+    font-family: 'Roboto', sans-serif;;
+    font-size:12pt;
+    text-align: center;
+}
